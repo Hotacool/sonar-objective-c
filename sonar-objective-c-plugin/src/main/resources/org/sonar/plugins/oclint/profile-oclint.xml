@@ -3,6 +3,10 @@
   <name>OCLint</name>
   <language>objc</language>
   <rules>
+      <rule>
+          <repositoryKey>OCLint</repositoryKey>
+          <key>compiler warning</key>
+      </rule>
     <rule>
       <repositoryKey>OCLint</repositoryKey>
       <key>avoid branching statement as last in loop</key>

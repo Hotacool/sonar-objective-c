@@ -3,6 +3,14 @@ Available issues:
 OCLint
 ======
 
+compiler warning
+----------
+
+Summary: Name: compiler warning
+
+Severity: 2
+Category: OCLint
+
 avoid branching statement as last in loop
 ----------
 
